@@ -7,7 +7,8 @@ This repository contain diferents projects:
 - Vision-Object-Tracking
 - Follow-me
 
-*Prerequisites
+Prerequisites
+=============
 - Mavproxy installed, if no please see: [http://tridge.github.io/MAVProxy/](http://tridge.github.io/MAVProxy/)
 - Dron Api installed, if not please see: http://dev.ardupilot.com/wiki/droneapi-tutorial/
 - Mavconn installed, if not please see: 
