@@ -32,7 +32,7 @@ clone repository
 ``module load droneapi.module.api``
 
 - Start main python program:
-``api start small_demo.py``
+``api start Object-Tracking.py``
 
 How to run Vision-Object-Trackin
 ================================
