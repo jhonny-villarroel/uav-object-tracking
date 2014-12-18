@@ -15,11 +15,12 @@ Prerequisites
 
 How to run Lineal-Control
 =========================
-Start MavProxy :
+- Start MavProxy :
 ``sudo mavproxy.py --master=/dev/ttyUSB0 --baudrate=57600``
-Load module Drone Api:
+
+- Load module Drone Api:
 ``module load droneapi.module.api``
-Start main python program:
+- Start main python program:
 ``api start small_demo.py``
 
 How to run Vision-Object-Trackin
